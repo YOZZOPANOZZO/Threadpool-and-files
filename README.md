@@ -10,4 +10,4 @@ NOTE: The use of threadpools is indicated, because the tasks present a good mix 
 
 ● CPU-intensive: compression requires a lot of computation
 
-Optional: recursively compress Files in all subdirectories
+● recursively compress Files in all subdirectories
